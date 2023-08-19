@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xmlstylesheet.xsl"?>
+<holders>
+    <holder>
+        <name>Sony</name>
+        <age>23</age>
+        <type>VIP</type>
+    </holder>
+    <holder>
+        <name>Danny</name>
+        <age>52</age>
+        <type>Standard</type>
+        </holder>
+        <holder>
+            <name>Peter</name>
+            <age>76</age>
+            <type>VIP</type>
+        </holder>
+        <holder>
+            <name>Marta</name>
+            <age>63</age>
+            <type>VIP</type>
+        </holder>
+        <holder>
+            <name>Bobby</name>
+            <age>42</age>
+            <type>Standard</type>
+        </holder>
+<holder>
+                        <name>Yuri</name>
+                        <age>75</age>
+                        <type>VIP</type>
+                    </holder><holder>
+                        <name>Sakhi</name>
+                        <age>60</age>
+                        <type>VIP</type>
+                    </holder></holders>
